@@ -14,7 +14,7 @@ from training import misc
 import pickle
 
 from pathlib import Path
-import typer
+# import typer
 from typing import Optional
 
 def extract_conv_names(model):
